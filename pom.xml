@@ -12,7 +12,7 @@
     <artifactId>eventsProject</artifactId>
     <version>1.0.0</version>
     <name>eventsProject</name>
-    <description>eventsProject</description>
+    <description>eventsproject</description>
     <scm>
         <connection>scm:svn:http://somerepository.com/svn_repo/trunk</connection>
         <developerConnection>scm:svn:https://somerepository.com/svn_repo/trunk</developerConnection>
