@@ -10,4 +10,4 @@ RUN curl -o ventproject-1.0.jar -u jenkins-user:admin http:192.168.43.71:8081/re
 
 EXPOSE 8089
 CMD ["java", "-jar", "eventsProject-1.0.jar"]
-ENV IMAGE_NAME="eventsProject"
+ENV IMAGE_NAME="eventsproject"
